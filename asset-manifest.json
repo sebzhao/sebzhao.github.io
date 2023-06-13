@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sebzhao.github.io/static/css/main.8d8cb6e7.css",
+    "main.js": "/sebzhao.github.io/static/js/main.080f845b.js",
+    "static/js/787.5809834d.chunk.js": "/sebzhao.github.io/static/js/787.5809834d.chunk.js",
+    "static/media/sebastianzhao.jpg": "/sebzhao.github.io/static/media/sebastianzhao.cadc3966ebebc75a04b7.jpg",
+    "static/media/berkeley_logo.png": "/sebzhao.github.io/static/media/berkeley_logo.859861c5b37fb7ed7033.png",
+    "static/media/CSM_logo.png": "/sebzhao.github.io/static/media/CSM_logo.c2de0c6124c28630adc2.png",
+    "static/media/computer_vision.jpg": "/sebzhao.github.io/static/media/computer_vision.8455fdaa0c854911d822.jpg",
+    "static/media/ditto.png": "/sebzhao.github.io/static/media/ditto.cbbf71a166d18930ec0d.png",
+    "static/media/SebZhaoResume.pdf": "/sebzhao.github.io/static/media/SebZhaoResume.7708f9c090f7ba0bc296.pdf",
+    "static/media/plated_dessert.jpg": "/sebzhao.github.io/static/media/plated_dessert.ce6fe035b256195d5df5.jpg",
+    "static/media/CWRU_logo.png": "/sebzhao.github.io/static/media/CWRU_logo.588b8b84e5987b6a89e3.png",
+    "static/media/BAIR_Logo_BlueType_Tag.png": "/sebzhao.github.io/static/media/BAIR_Logo_BlueType_Tag.334e0be8c393e38df8b1.png",
+    "static/media/open_ai_logo.jpg": "/sebzhao.github.io/static/media/open_ai_logo.b0df7903def7e9a2daae.jpg",
+    "static/media/launchpad_logo.png": "/sebzhao.github.io/static/media/launchpad_logo.540c688b41fc6e29caa9.png",
+    "static/media/youtube_logo.jpg": "/sebzhao.github.io/static/media/youtube_logo.f8848b6e91daa75cf604.jpg",
+    "index.html": "/sebzhao.github.io/index.html",
+    "main.8d8cb6e7.css.map": "/sebzhao.github.io/static/css/main.8d8cb6e7.css.map",
+    "main.080f845b.js.map": "/sebzhao.github.io/static/js/main.080f845b.js.map",
+    "787.5809834d.chunk.js.map": "/sebzhao.github.io/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d8cb6e7.css",
+    "static/js/main.080f845b.js"
+  ]
+}
