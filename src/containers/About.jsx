@@ -1,6 +1,6 @@
 import React from 'react'
 import resume from '../assets/SebZhaoResume.pdf'
-import sebastianzhao from '../assets/sebastianzhao.jpg'
+import sebastianzhao_compressed from '../assets/sebastianzhao_compressed.jpg'
 import '../styles/About.css'
 
 const About = () => {
@@ -13,7 +13,7 @@ const About = () => {
         </h2>
 
         <div class='w-64 h-64'>
-            <img src={sebastianzhao} className='logo-image'  alt='Sebastian Zhao'></img>
+            <img src={sebastianzhao_compressed} className='logo-image'  alt='Sebastian Zhao'></img>
         </div>
         
         
