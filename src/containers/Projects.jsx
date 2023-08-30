@@ -46,7 +46,7 @@ const Projects = () => {
             </div>
 
             <div class='flex flex-col items-center p-5 m-5 shadow-lg bg-gradient-to-br from-orange-200 to-white rounded-2xl'>
-                <h2 class='text-2xl pb-5 text-center'><b>Lunchpad</b></h2>
+                <h2 class='text-2xl pb-5 text-center'><a href='https://lunchpad-website-refactor-9jlzw3qjr-sebzhao.vercel.app/' alt='website link' class='underline text-blue-600 hover:text-blue-800 visited:text-purple-600'><b>Lunchpad</b></a></h2>
                 <img src={plated_dessert} class='h-32 pb-5'></img>
                 <div class='text-center'>
                     Built custom model integrating novel transformer architecture with latent diffusion models for culinary uses.

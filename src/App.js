@@ -8,13 +8,15 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App" class="flex flex-col">     
+    <div className="App" class="flex flex-col"> 
       <Navbar></Navbar>
       <About></About>
       <Education></Education>
       <Experience></Experience>
       <Projects></Projects>
     </div>
+
+
   );
 }
 

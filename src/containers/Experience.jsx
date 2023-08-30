@@ -12,6 +12,31 @@ const Experience = () => {
 
         <div class='flex flex-col justify-evenly'>
             <div class='pb-10'>
+
+                <div class='flex flex-row items-center justify-between'>
+                    <div class='flex flex-row items-center pb-3'>
+                        <h2 class='text-3xl'>Berkeley Artificial Intelligence Research</h2>
+                        <img src={bairLogo} class='ml-5 h-12' alt='bair logo'></img>
+                    </div>
+                    <h3 class='text-2xl'>
+                        September 2022 - Present
+                    </h3>
+                </div>
+                <h3 class='text-xl pb-1' >Machine Learning Researcher</h3>
+
+                <div class='text-lg'>
+                    <ul class='list-disc pl-5'>
+                        <li>Building package and pipeline to replicate and simulate human studies using large language models.</li>
+                        <li>Investigating strategies to provide a prior on target user demography through conditioning and fine-tuning.</li>
+                        <li>Creating the first comprehensive human studies benchmark with LLM performance on replication.</li>
+                        <li>Proved optimizing for proxy objectives is functionally equivalent to a hidden true objective in recommender systems.</li>
+                        <li>Building upon bridging recommender systems like Community Notes.</li>
+                    </ul>
+                </div>
+                
+
+            </div>
+            <div class='pb-10'>
                 <div class='flex flex-row items-center justify-between'>
                     <div class='flex flex-row items-center pb-3'>
                         <h2 class='text-3xl'>Launchpad</h2>
@@ -27,7 +52,7 @@ const Experience = () => {
                 <div class='text-lg'>
                     <ul class='list-disc pl-5'>
                         <li> Led a project integrating a novel transformer architecture with latent diffusion models for culinary uses. </li>
-                        <li> Built and deployed website hosting model inference using our custom model with React and Flask. </li>
+                        <li> Built and deployed website hosting model inference using our custom model with React and FastAPI with Ray Serve integration for model serving. </li>
                         <li> Previously trained generative adversarial networks to image-to-image style transfer pets into a data-augmented Pokemon domain 50% faster and 50% more memory efficient than the previous state-of-the-art. </li>
                     </ul>
                 </div>
@@ -56,30 +81,7 @@ const Experience = () => {
 
             </div>
 
-            <div class='pb-10'>
 
-                <div class='flex flex-row items-center justify-between'>
-                    <div class='flex flex-row items-center pb-3'>
-                        <h2 class='text-3xl'>Berkeley Artificial Intelligence Research</h2>
-                        <img src={bairLogo} class='ml-5 h-12' alt='bair logo'></img>
-                    </div>
-                    <h3 class='text-2xl'>
-                        September 2022 - Present
-                    </h3>
-                </div>
-                <h3 class='text-xl pb-1' >Machine Learning Researcher</h3>
-
-                <div class='text-lg'>
-                    <ul class='list-disc pl-5'>
-                        <li>Building package and pipeline to replicate and simulate human studies using large language models.</li>
-                        <li>Investigating strategies to provide a prior on target user demography through conditioning and fine-tuning.</li>
-                        <li>Creating the first comprehensive human studies benchmark with LLM performance on replication.</li>
-
-                    </ul>
-                </div>
-                
-
-            </div>
 
 
             <div>
