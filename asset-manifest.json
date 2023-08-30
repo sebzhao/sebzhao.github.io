@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.18fce31c.css",
-    "main.js": "/static/js/main.0458aa7e.js",
+    "main.css": "/static/css/main.0911d534.css",
+    "main.js": "/static/js/main.628ec0f6.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/sebastianzhao_compressed.jpg": "/static/media/sebastianzhao_compressed.404898573b1904441f39.jpg",
     "static/media/berkeley_logo.png": "/static/media/berkeley_logo.859861c5b37fb7ed7033.png",
     "static/media/CSM_logo.png": "/static/media/CSM_logo.c2de0c6124c28630adc2.png",
     "static/media/computer_vision.jpg": "/static/media/computer_vision.8455fdaa0c854911d822.jpg",
+    "static/media/SebZhaoResume.pdf": "/static/media/SebZhaoResume.25a070fb36127d63929b.pdf",
     "static/media/ditto.png": "/static/media/ditto.cbbf71a166d18930ec0d.png",
-    "static/media/SebZhaoResume.pdf": "/static/media/SebZhaoResume.7708f9c090f7ba0bc296.pdf",
     "static/media/plated_dessert.jpg": "/static/media/plated_dessert.ce6fe035b256195d5df5.jpg",
     "static/media/CWRU_logo.png": "/static/media/CWRU_logo.588b8b84e5987b6a89e3.png",
     "static/media/BAIR_Logo_BlueType_Tag.png": "/static/media/BAIR_Logo_BlueType_Tag.334e0be8c393e38df8b1.png",
@@ -16,12 +16,12 @@
     "static/media/launchpad_logo.png": "/static/media/launchpad_logo.540c688b41fc6e29caa9.png",
     "static/media/youtube_logo.jpg": "/static/media/youtube_logo.f8848b6e91daa75cf604.jpg",
     "index.html": "/index.html",
-    "main.18fce31c.css.map": "/static/css/main.18fce31c.css.map",
-    "main.0458aa7e.js.map": "/static/js/main.0458aa7e.js.map",
+    "main.0911d534.css.map": "/static/css/main.0911d534.css.map",
+    "main.628ec0f6.js.map": "/static/js/main.628ec0f6.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18fce31c.css",
-    "static/js/main.0458aa7e.js"
+    "static/css/main.0911d534.css",
+    "static/js/main.628ec0f6.js"
   ]
 }
