@@ -16,5 +16,6 @@ Shaochen Zhong, Zaichuan You, Jiamu Zhang, **Sebastian Zhao**, Zachary LeClaire,
 
 ## News
 
+* 1/27/25 -- [The Ingredients for Robotic Diffusion Transformers](https://arxiv.org/abs/2410.10088) was accepted into ICRA 2025
 * 1/16/25 -- [Need Help? Designing Proactive AI Assistants for Programming](https://arxiv.org/abs/2410.04596) was accepted into CHI 2025
 * 12/28/24 -- [The RealHumanEval: Evaluating Large Language Models’ Abilities to Support Programmers](https://arxiv.org/abs/2404.02806) was accepted into TMLR 2025
