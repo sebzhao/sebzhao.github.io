@@ -15,7 +15,8 @@ I'm broadly interested in efficient ML.  My recent work has been on model compre
 Shaochen Zhong, Zaichuan You, Jiamu Zhang, **Sebastian Zhao**, Zachary LeClaire, Zirui Liu, Daochen Zha, Vipin Chaudhary, Shuai Xu, Xia Hu
 
 ## News
-
+* 3/10/25 -- [CodingGenie: A Proactive LLM-Powered Programming Assistant](https://arxiv.org/abs/2503.14724) was accepted into FSE Demo 2025
+* 2/26/25 -- [Flexible Group Count Enables Hassle-Free Structured Pruning]() was accepted into CVPR 2025
 * 1/28/25 -- [Engagement, User Satisfaction, and the Amplification of Divisive Content on Social Media](https://arxiv.org/abs/2305.16941) was accepted into PNAS Nexus
 * 1/27/25 -- [The Ingredients for Robotic Diffusion Transformers](https://arxiv.org/abs/2410.10088) was accepted into ICRA 2025
 * 1/16/25 -- [Need Help? Designing Proactive AI Assistants for Programming](https://arxiv.org/abs/2410.04596) was accepted into CHI 2025
