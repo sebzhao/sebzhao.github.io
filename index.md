@@ -30,6 +30,7 @@ Hussein Mozannar, Valerie Chen, Mohammed Alsobay, Subhro Das, **Sebastian Zhao**
 Shaochen Zhong, Zaichuan You*, Jiamu Zhang*, **Sebastian Zhao***, Zachary LeClaire, Zirui Liu, Daochen Zha, Vipin Chaudhary, Shuai Xu, Xia Hu
 
 ## News
+* 9/19/25 -- [Multipole Attention for Efficient Long Context Reasoning](https://arxiv.org/abs/2506.13059) was accepted into NeurIPS 2025
 * 8/20/25 -- I will be doing a research assistantship under Professor Kurt Keutzer for the next year.
 * 3/10/25 -- [CodingGenie: A Proactive LLM-Powered Programming Assistant](https://arxiv.org/abs/2503.14724) was accepted into FSE Demo 2025
 * 1/28/25 -- [Engagement, User Satisfaction, and the Amplification of Divisive Content on Social Media](https://arxiv.org/abs/2305.16941) was accepted into PNAS Nexus
